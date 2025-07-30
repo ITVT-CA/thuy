@@ -22,7 +22,7 @@ public class AuthController : ControllerBase
         if (_context.Users.Any(u => u.Username == user.Username))
             return BadRequest("Username already exists.");
 
-        user.PasswordHash = PasswordHasher.Hash(user.Password); // dùng Password
+        user.PasswordHash = PasswordHasher.Hash(user.PasswordHash);
         _context.Users.Add(user);
         _context.SaveChanges();
         return Ok("Registered successfully.");

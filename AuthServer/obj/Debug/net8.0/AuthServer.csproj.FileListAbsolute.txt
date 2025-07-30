@@ -76,3 +76,4 @@
 /home/chop/Documents/Project/Game/Demo/thuy/AuthServer/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /home/chop/Documents/Project/Game/Demo/thuy/AuthServer/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
 /home/chop/Documents/Project/Game/Demo/thuy/AuthServer/obj/Debug/net8.0/AuthServer.csproj.CopyComplete
+/home/chop/Documents/Project/Game/Demo/thuy/AuthServer/obj/Debug/net8.0/AuthServer.sourcelink.json
